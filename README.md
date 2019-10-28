@@ -1,1 +1,2 @@
-# GANs-Me
+# GANsandMe
+My experiments with GANs
